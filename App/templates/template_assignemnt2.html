@@ -1,0 +1,441 @@
+﻿
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="300">	
+  <meta charset="utf-8">
+  <title>webAPP</title>
+  <script type="text/javascript" src="../static/js/jquery.js"></script>
+  <link rel="stylesheet" href="../static/css/comon2.css">
+</head>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+<script src="https://cdn.anychart.com/releases/v8/js/anychart-tag-cloud.min.js"></script>
+
+  <!-- <script type="text/javascript" src="../static/js/axios.min.js"></script> -->
+
+<div id="app">
+  <div class="canvas" style="opacity: .8" >
+    <h1>Melbourne SA2 compound sentiment analysis</h1>
+    <iframe frameborder="0" scrolling="no" src="../static/js/nltk_59.html" style="width: 98%; height: 75%"></iframe>
+    
+  </div>
+ 
+  <div class="loading">
+    <div class="loadbox"> <img src="../static/picture/loading.gif"> Loading... </div>
+  </div>
+
+
+<script>
+	$(window).load(function(){  
+             $(".loading").fadeOut()
+            })  
+			
+/****/
+$(document).ready(function(){
+	var whei=$(window).width()
+	$("html").css({fontSize:whei/20})
+	$(window).resize(function(){
+		var whei=$(window).width()
+	 $("html").css({fontSize:whei/20})
+});
+	});
+</script>
+<!-- <script type="text/javascript" src="../static/js/echarts.min.js"></script> -->
+<script type="text/javascript" src="../static/js/echarts5.min.js"></script>
+<script type="text/javascript" src="../static/js/echarts-wordcloud.min.js"></script>
+<script type="text/javascript" src="../static/js/vue.min.js"></script>
+	<!-- <script language="JavaScript" src="../static/js/js.js"></script> -->
+<body>
+
+
+
+<div class="head">
+  <h1>Tweet Analysis</h1>
+  <div class="weather"><span id="showTime"></span></div>
+	
+	<script>
+    var t = null;
+    t = setTimeout(time,1000);
+    function time()
+    {
+      clearTimeout(t);
+      dt = new Date();
+      var y=dt.getFullYear();
+      var mt=dt.getMonth()+1;
+      var day=dt.getDate();
+      var h=dt.getHours();
+      var m=dt.getMinutes();
+      var s=dt.getSeconds();
+      document.getElementById("showTime").innerHTML = "Date: "+y+"/"+mt+"/"+day+"-"+h+":"+m+":"+s;
+      t = setTimeout(time,1000);      
+    } 
+
+  </script>
+</div>
+
+<div class="mainbox4"  >
+  <ul class="clearfix">
+    <li>
+      <div class="bar2">
+        <div class="barbox3">
+          <ul class="clearfix">
+          <li class="padding">Melbourne Income Analysis</li>
+        </ul>
+        </div>
+      </div>
+      <div class="boxall" style="height: 5rem">
+        <div class="alltitle">Monthly income and rent over 8 suburbs</div>
+        <div class="allnav" id="echart6"></div>
+        <div class="boxfoot"></div>
+      </div>
+      <div class="boxfoot"></div>
+    </li>
+
+    <li>
+        <div class="bar">
+          <div class="barbox">
+            <ul class="clearfix">
+              <li class="pulll_left counter">434847</li>
+            </ul>
+          </div>
+          <div class="barbox2">
+            <ul class="clearfix">
+              <li class="pulll_left">Melbourne Total Tweets (from old data)</li>
+            </ul>
+          </div>
+        </div>
+
+    
+      <!-- <div class="bar2">
+        <div class="barbox3">
+          <ul class="clearfix">
+          <li class="padding">Melbourne SA2 compound sentiment analysis</li>
+        </ul>
+        </div>
+      </div> -->
+
+      <div class="boxfoot"></div>
+    </li>
+
+  </ul>
+</div>
+
+<div class="mainbox3"  >
+  <ul class="clearfix">
+
+    <li>
+      <div class="bar2">
+        <div class="barbox3">
+          <ul class="clearfix">
+          <li class="padding">Melbourne Sentiment Analysis 1</li>
+        </ul>
+        </div>
+      </div>
+      <div class="boxall" style="height:5rem">
+        <div class="alltitle">Compound score over 8 suburbs</div>
+        <div class="allnav" id="echart7"></div>
+        <div class="boxfoot"></div>
+      </div>
+      <div class="boxfoot"></div>
+    </li>
+
+    <li>
+      <div class="bar2">
+        <div class="barbox3">
+          <ul class="clearfix">
+          <li class="padding">Melbourne Sentiment Analysis 2</li>
+        </ul>
+        </div>
+      </div>
+      <div class="boxall" style="height:5rem">
+        <div class="alltitle">Polarity score over 8 suburbs</div>
+        <div class="allnav" id="echart4"></div>
+        <div class="boxfoot"></div>
+      </div>
+      <div class="boxfoot"></div>
+    </li>
+  </ul>
+</div>
+
+
+<div class="mainbox5"  >
+  <ul class="clearfix">
+    <li>
+      <div class="bar2">
+      <div class="barbox3">
+        <ul class="clearfix">
+        <li class="padding">Language Distribution</li>
+      </ul>
+      </div>
+    </div>
+        <div class="boxall" style="height: 4rem">
+          <div class="alltitle">Regional Tweets: Language Distribution</div>
+          <div class="allnav" id="echart2"></div>
+          <div class="boxfoot"></div>
+        </div>
+        <div class="boxfoot"></div>
+
+
+        <div class="bar2">
+          <div class="barbox3">
+            <ul class="clearfix">
+            <li class="padding">Hashtags Word Cloud</li>
+          </ul>
+          </div>
+        </div>
+        <div class="boxall" style="height: 4rem">
+          <div class="alltitle">Regional Top hashtags</div>
+          <div class="allnav" id="echart5"></div>
+          <div class="boxfoot"></div>
+        </div>
+        <div class="boxfoot"></div>
+
+    </li>
+
+    <li>
+    <div class="bar">
+      <div class="barbox">
+        <ul class="clearfix">
+          <li class="pulll_left counter" v-text="totalltweets">{{totalltweets}}</li>
+        </ul>
+      </div>
+      <div class="barbox2">
+        <ul class="clearfix">
+          <li class="pulll_left">Total Live Tweets</li>
+        </ul>
+      </div>
+    </div>
+
+      <div class="map">
+        <div class="map4" id="map_1"></div>
+      </div>
+
+    </li>
+
+
+    <li>
+
+      <div class="bar2">
+        <div class="barbox3">
+            <ul class="clearfix">
+            <li class="padding">Live Tweets Sentiment analysis 1</li>
+          </ul>
+        </div>
+      </div>
+      <div class="boxall" style="height: 4rem">
+          <div class="alltitle">Compound score of live sentiment</div>
+          <div class="allnav" id="echart1"></div>
+          <div class="boxfoot"></div>
+      </div>
+      <div class="boxfoot"></div>
+
+      <div class="bar2">
+        <div class="barbox3">
+          <ul class="clearfix">
+          <li class="padding">Live Tweets Sentiment analysis 2</li>
+        </ul>
+        </div>
+      </div>
+      <div class="boxall" style="height: 4rem">
+        <div class="alltitle">Polarity score of live sentiment</div>
+        <div class="allnav" id="echart3"></div>
+        <div class="boxfoot"></div>
+      </div>
+      <div class="boxfoot"></div>
+
+    </li>
+
+</ul>
+</div>
+
+<div class="back"></div>
+</div>
+
+<script>
+  var city = {}
+  var lang_data = [];
+  var freq_data = [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+  ];
+  var comp_data = [
+    [],
+    []
+  ];
+  var pola_data = [
+        [],
+        []
+  ];
+  var hashtags_data = [];
+
+  var geoCoordMap = {
+      'adelaide': [138.6007, -34.9285],
+      'brisbane': [153.0260, -27.4705],
+      "darwin": [130.841782, -12.462827],
+      "melbourne": [144.9631, -37.8136],
+      "sydney": [151.2093, -33.8688],
+  };
+
+  
+  var keys = Object.keys( geoCoordMap );
+  // console.log(keys)
+
+  var vue = new Vue({
+    el:'#app',
+    data:{
+      totalltweets:0,
+      city_lang:0,
+      city_sentiment:0,
+      city_tweets:0,
+      city_hashtags:0,
+      tweet_sentiment:0,
+    },
+    mounted (){
+     this.get_total_tweets()
+     this.get_city_tweets()
+     this.get_city_lang_distribution()
+     this.get_city_topwords()
+     this.get_tweet_sentiment_comp()
+     this.get_tweet_sentiment_pola()
+    },
+    
+    methods:{
+
+      get_total_tweets:function(){
+        var that =this;
+
+        axios.get("/totaltweet")
+                .then(function (response) {
+                  console.log(response);
+                  that.totalltweets=response.data['total_tweets'];
+                  console.log(response.data['total_tweets']);
+                })
+                .catch(function (error) {
+                  console.log(error);
+                });
+
+      },
+
+      get_city_tweets:function(){
+        var that =this;
+        axios.get("/tweetpercity")
+                .then(function (response) {
+                  // console.log(response);
+                  that.city_tweets=response.data;
+                  city['adelaide'] = that.city_tweets.db_adelaide['2022']
+                  city['brisbane'] =  that.city_tweets.db_brisbane['2022']
+                  city["darwin"] = that.city_tweets.db_darwin['2022']
+                  city["melbourne"] = that.city_tweets.db_melbourne['2022']
+                  city["sydney"] = that.city_tweets.db_sydney['2022']
+                  console.log(city);
+                })
+                .catch(function (error) {
+                  console.log(error);
+                });
+
+      },
+     
+      get_city_lang_distribution:function(){
+        var that =this;
+
+        axios.get("/senario1")
+                .then(function (response) {
+                  console.log(response);
+                  that.city_lang=response.data;
+                  for (loc in geoCoordMap){
+                    window[loc+'_lang'] = []
+                    for (var lang in that.city_lang[loc]){
+                        window[loc+'_lang'].push({"name": lang, "value": that.city_lang[loc][lang]})}                      
+                    lang_data.push(window[loc+'_lang'])}
+                  console.log(lang_data)
+                })
+                .catch(function (error) {
+                  console.log(error);
+                });
+
+      },
+
+      get_city_topwords(){
+        var that =this;
+        axios.get("/senario2")
+                .then(function (response) {
+                  //console.log(response);
+                  that.city_hashtags=response.data;
+                  hashtags_data = JSON.parse(JSON.stringify(that.city_hashtags))
+                  console.log(hashtags_data);
+                })
+                .catch(function (error) {
+                  console.log(error.response.data);
+                });
+
+      },
+
+      get_tweet_sentiment_comp(){
+        var that =this;
+        axios.get("/senario3compound")
+                .then(function (response) {
+                  console.log(response);
+                  that.city_sentiment=response.data;
+                  for (var i = 0; i < comp_data.length; i++){
+                    if (i == 0){
+                      for (name in that.city_sentiment){
+                        comp_data[i].push(name)
+                      }
+                    } else {
+                      for (name in that.city_sentiment){
+                        comp_data[i].push(that.city_sentiment[name])
+                      }
+                    }
+                  }
+   
+                  console.log(comp_data)    
+                
+              })
+                .catch(function (error) {
+                  console.log(error);
+                });
+      },
+
+      get_tweet_sentiment_pola(){
+        var that =this;
+        axios.get("/senario3polarity")
+                .then(function (response) {
+                  console.log(response);
+                  that.tweet_sentiment=response.data;
+                  for (var i = 0; i < pola_data.length; i++){
+                    if (i == 0){
+                      for (name in that.tweet_sentiment){
+                        pola_data[i].push(name)
+                      }
+                    } else {
+                      for (name in that.tweet_sentiment){
+                        pola_data[i].push(that.tweet_sentiment[name])
+                      }
+                    }
+                  }
+
+              })
+                .catch(function (error) {
+                  console.log(error);
+                });
+      },
+
+    }
+
+  });
+
+</script>
+
+<script type="text/javascript" src="../static/js/mapData.js"></script>
+<script type="text/javascript" src="../static/js/australia.js"></script>
+<script type="text/javascript" src="../static/js/area_echarts_test.js"></script>
+</body>
+</html>

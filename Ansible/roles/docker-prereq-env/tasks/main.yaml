@@ -1,0 +1,46 @@
+# 2022 COMP90024 Group 33 
+
+# Team members:
+
+# Ke Yang (Student ID: 1219623) - city: Anhui
+
+# Yimeng Liu (Student ID: 1074206) - city: Guangdong
+
+# Jintong Liu (Student ID: 1074498) - city: Hebei
+
+# Keang Xu (Student ID: 1008807) - city: Hubei
+
+# Xinwei Qian (Student ID: 1068271) - city: Jiangsu
+
+
+# install packages on the host
+- name: Install pip
+  become: yes
+  apt:
+    name: ['python3-pip']
+    state: latest
+    update_cache: yes
+  when: ansible_distribution == "Ubuntu"
+
+- name: Update pip
+  become: yes
+  pip:
+    name: ['pip']
+    state: latest
+    executable: pip3
+  environment: "{{ proxy_env }}"
+
+- name: Sudo apt-get install dependencies
+  tags: always
+  become: yes
+  apt:
+    # need to install more dependencies
+    name: ['apt-transport-https', 'build-essential', 'ca-certificates', 'curl', 'git', 'python3-dev', 'python3-pip', 'python3-setuptools', 'software-properties-common', 'unzip', 'vim']
+    state: latest
+    install_recommends: no
+    update_cache: yes
+  environment: "{{ proxy_env }}"
+
+
+
+  

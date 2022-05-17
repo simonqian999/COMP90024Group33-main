@@ -1,0 +1,81 @@
+# 2022 COMP90024 Group 33 
+
+# Team members:
+
+# Ke Yang (Student ID: 1219623) - city: Anhui
+
+# Yimeng Liu (Student ID: 1074206) - city: Guangdong
+
+# Jintong Liu (Student ID: 1074498) - city: Hebei
+
+# Keang Xu (Student ID: 1008807) - city: Hubei
+
+# Xinwei Qian (Student ID: 1068271) - city: Jiangsu
+
+---
+
+# remove directory
+- name: Remove directory 
+  file: 
+    path: '{{ remote_working_directory }}' 
+    state: absent 
+
+
+- name: Create directory
+  file:
+    path: '{{ remote_working_directory }}'
+    state: directory
+
+# clone
+- name: Clone the code repository into home directory
+  shell: git clone https://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@github.com/KeYANG813/COMP90024Group33.git
+  args:
+    chdir: '{{ remote_working_directory }}'
+  environment: "{{ proxy_env }}"
+
+- name: Git pull lastest repo
+  shell: git pull
+  args:
+    chdir: '/home/ubuntu/COMP90024/COMP90024Group33'
+
+
+- name: Remove directory __pycache__
+  become: 
+    yes
+  file:
+    path: '/home/ubuntu/COMP90024/COMP90024Group33/TwitterCrawler/code/__pycache__'
+    state: absent
+
+######
+# Create Docker config directory
+- name: Make sure that Docker config directory exists
+  become: yes
+  file:
+    path: '~/.docker'
+    state: 'directory'
+
+# Set Docker proxy for University of Melbourne Research Cloud
+- name: Ensure Docker client proxy settings are present on the server
+  become: yes
+  copy:
+    content: "{{ docker_proxy_settings }}"
+    dest: ~/.docker/config.json
+
+- name: Shut down previous server
+  become:
+    yes
+  shell: docker-compose down -d
+  args:
+    chdir: '/home/ubuntu/COMP90024/COMP90024Group33/TwitterCrawler/code/tweepy_threecity'
+
+- name: copy crawler config to hosts
+  copy:
+    src: 'configs/crawlerSetting.py'
+    dest: '/home/ubuntu/COMP90024/COMP90024Group33/TwitterCrawler/code/tweepy_threecity'
+
+- name: Start server
+  become:
+    yes
+  shell: docker-compose up --build -d
+  args:
+    chdir: '/home/ubuntu/COMP90024/COMP90024Group33/TwitterCrawler/code/tweepy_threecity'

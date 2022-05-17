@@ -1,0 +1,19 @@
+# set up CouchDB
+- hosts: DataNodes 
+  vars_files: 
+    - host_vars/couchdb.yaml 
+  gather_facts: true 
+
+  roles: 
+    - role: couchdb-install
+
+  
+- hosts: Masternode 
+  vars_files: 
+    - host_vars/couchdb.yaml 
+  gather_facts: true 
+  roles: 
+    - role: couchdb-finish-setup 
+
+
+

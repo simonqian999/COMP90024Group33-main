@@ -1,0 +1,16 @@
+# 2022 COMP90024 Group 33 
+
+# Team members:
+
+# Ke Yang (Student ID: 1219623) - city: Anhui
+
+# Yimeng Liu (Student ID: 1074206) - city: Guangdong
+
+# Jintong Liu (Student ID: 1074498) - city: Hebei
+
+# Keang Xu (Student ID: 1008807) - city: Hubei
+
+# Xinwei Qian (Student ID: 1068271) - city: Jiangsu
+#
+---
+docker_proxy_settings: "{\"proxies\":{\"default\":{\"httpProxy\":\"http://wwwproxy.unimelb.edu.au:8000\",\"httpsProxy\":\"http://wwwproxy.unimelb.edu.au:8000\",\"noProxy\":\"localhost,127.0.0.1,localaddress,172.16.0.0/12,.melbounre.rc.nectar.org.au,.storage.unimelb.edu.au,.cloud.unimelb.edu.au\"}}}"

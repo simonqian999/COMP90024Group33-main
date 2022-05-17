@@ -1,0 +1,57 @@
+[DataNodes]
+172.26.132.223
+172.26.129.211
+172.26.131.33
+
+[All]
+172.26.132.223
+172.26.129.211
+172.26.131.33
+172.26.131.66
+
+[instance1]
+172.26.132.223
+[instance2]
+172.26.129.211
+[instance3]
+172.26.131.33
+[instance4]
+172.26.131.66
+
+[database:children]
+Masternode
+workers
+
+[Masternode]
+172.26.132.223
+
+[workers]
+172.26.129.211
+172.26.131.33
+
+[ProcessingNodes]
+172.26.131.66
+
+[DataNodes:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=ubuntu
+ansible_ssh_private_key_file=~/.ssh/test.pem
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+
+[Masternode:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=ubuntu
+ansible_ssh_private_key_file=~/.ssh/test.pem
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+
+[All:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=ubuntu
+ansible_ssh_private_key_file=~/.ssh/test.pem
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
+
+[ProcessingNodes:vars]
+ansible_python_interpreter=/usr/bin/python3
+ansible_user=ubuntu
+ansible_ssh_private_key_file=~/.ssh/test.pem
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'

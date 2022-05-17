@@ -1,0 +1,2394 @@
+[
+ {
+   "FIELD1": "",
+   "Language family": "Northwest Caucasian",
+   "ISO language name": "Abkhazian",
+   "Native name (endonym)": "аҧсуа бызшәа, аҧсшәа",
+   "639-1": "ab",
+   "639-2": {
+      "T": "abk",
+      "B": "abk"
+   },
+   "639-3": "abk",
+   "Notes": "also known as Abkhaz"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Afar",
+   "Native name (endonym)": "Afaraf",
+   "639-1": "aa",
+   "639-2": {
+      "T": "aar",
+      "B": "aar"
+   },
+   "639-3": "aar",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Afrikaans",
+   "Native name (endonym)": "Afrikaans",
+   "639-1": "af",
+   "639-2": {
+      "T": "afr",
+      "B": "afr"
+   },
+   "639-3": "afr",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Akan",
+   "Native name (endonym)": "Akan",
+   "639-1": "ak",
+   "639-2": {
+      "T": "aka",
+      "B": "aka"
+   },
+   "639-3": "aka + 2",
+   "Notes": "macrolanguage, Twi is tw/twi, Fanti is fat"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Albanian",
+   "Native name (endonym)": "Shqip",
+   "639-1": "sq",
+   "639-2": {
+      "T": "sqi",
+      "B": "alb"
+   },
+   "639-3": "sqi + 4",
+   "Notes": "macrolanguage, \"Albanian Phylozone\" in 639-6"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Amharic",
+   "Native name (endonym)": "አማርኛ",
+   "639-1": "am",
+   "639-2": {
+      "T": "amh",
+      "B": "amh"
+   },
+   "639-3": "amh",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Arabic",
+   "Native name (endonym)": "العربية",
+   "639-1": "ar",
+   "639-2": {
+      "T": "ara",
+      "B": "ara"
+   },
+   "639-3": "ara + 29",
+   "Notes": "macrolanguage, Standard Arabic is arb"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Aragonese",
+   "Native name (endonym)": "aragonés",
+   "639-1": "an",
+   "639-2": {
+      "T": "arg",
+      "B": "arg"
+   },
+   "639-3": "arg",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Armenian",
+   "Native name (endonym)": "Հայերեն",
+   "639-1": "hy",
+   "639-2": {
+      "T": "hye",
+      "B": "arm"
+   },
+   "639-3": "hye",
+   "Notes": "also known as Հայերէն; ISO 639-3 code hye is for Eastern Armenian, hyw is for Western Armenian, and xcl is for Classical Armenian"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Assamese",
+   "Native name (endonym)": "অসমীয়া",
+   "639-1": "as",
+   "639-2": {
+      "T": "asm",
+      "B": "asm"
+   },
+   "639-3": "asm",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Northeast Caucasian",
+   "ISO language name": "Avaric",
+   "Native name (endonym)": "авар мацӀ, магӀарул мацӀ",
+   "639-1": "av",
+   "639-2": {
+      "T": "ava",
+      "B": "ava"
+   },
+   "639-3": "ava",
+   "Notes": "also known as Avar"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Avestan",
+   "Native name (endonym)": "avesta",
+   "639-1": "ae",
+   "639-2": {
+      "T": "ave",
+      "B": "ave"
+   },
+   "639-3": "ave",
+   "Notes": "ancient"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Aymaran",
+   "ISO language name": "Aymara",
+   "Native name (endonym)": "aymar aru",
+   "639-1": "ay",
+   "639-2": {
+      "T": "aym",
+      "B": "aym"
+   },
+   "639-3": "aym + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Azerbaijani",
+   "Native name (endonym)": "azərbaycan dili, تۆرکجه",
+   "639-1": "az",
+   "639-2": {
+      "T": "aze",
+      "B": "aze"
+   },
+   "639-3": "aze + 2",
+   "Notes": "macrolanguage also known as Azeri"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Bambara",
+   "Native name (endonym)": "bamanankan",
+   "639-1": "bm",
+   "639-2": {
+      "T": "bam",
+      "B": "bam"
+   },
+   "639-3": "bam",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Bashkir",
+   "Native name (endonym)": "башҡорт теле",
+   "639-1": "ba",
+   "639-2": {
+      "T": "bak",
+      "B": "bak"
+   },
+   "639-3": "bak",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Language isolate",
+   "ISO language name": "Basque",
+   "Native name (endonym)": "euskara, euskera",
+   "639-1": "eu",
+   "639-2": {
+      "T": "eus",
+      "B": "baq"
+   },
+   "639-3": "eus",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Belarusian",
+   "Native name (endonym)": "беларуская мова",
+   "639-1": "be",
+   "639-2": {
+      "T": "bel",
+      "B": "bel"
+   },
+   "639-3": "bel",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Bengali",
+   "Native name (endonym)": "বাংলা",
+   "639-1": "bn",
+   "639-2": {
+      "T": "ben",
+      "B": "ben"
+   },
+   "639-3": "ben",
+   "Notes": "also known as Bangla"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Bihari languages",
+   "Native name (endonym)": "भोजपुरी",
+   "639-1": "bh",
+   "639-2": {
+      "T": "bih",
+      "B": "bih"
+   },
+   "639-3": "",
+   "Notes": "collective language code for Bhojpuri, Magahi, and Maithili"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Creole",
+   "ISO language name": "Bislama",
+   "Native name (endonym)": "Bislama",
+   "639-1": "bi",
+   "639-2": {
+      "T": "bis",
+      "B": "bis"
+   },
+   "639-3": "bis",
+   "Notes": "Language formed from English and Ni-Vanuatu, with some French influence."
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Bosnian",
+   "Native name (endonym)": "bosanski jezik",
+   "639-1": "bs",
+   "639-2": {
+      "T": "bos",
+      "B": "bos"
+   },
+   "639-3": "bos",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Breton",
+   "Native name (endonym)": "brezhoneg",
+   "639-1": "br",
+   "639-2": {
+      "T": "bre",
+      "B": "bre"
+   },
+   "639-3": "bre",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Bulgarian",
+   "Native name (endonym)": "български език",
+   "639-1": "bg",
+   "639-2": {
+      "T": "bul",
+      "B": "bul"
+   },
+   "639-3": "bul",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Sino-Tibetan",
+   "ISO language name": "Burmese",
+   "Native name (endonym)": "ဗမာစာ",
+   "639-1": "my",
+   "639-2": {
+      "T": "mya",
+      "B": "bur"
+   },
+   "639-3": "mya",
+   "Notes": "also known as Myanmar"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Catalan, Valencian",
+   "Native name (endonym)": "català, valencià",
+   "639-1": "ca",
+   "639-2": {
+      "T": "cat",
+      "B": "cat"
+   },
+   "639-3": "cat",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Chamorro",
+   "Native name (endonym)": "Chamoru",
+   "639-1": "ch",
+   "639-2": {
+      "T": "cha",
+      "B": "cha"
+   },
+   "639-3": "cha",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Northeast Caucasian",
+   "ISO language name": "Chechen",
+   "Native name (endonym)": "нохчийн мотт",
+   "639-1": "ce",
+   "639-2": {
+      "T": "che",
+      "B": "che"
+   },
+   "639-3": "che",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Chichewa, Chewa, Nyanja",
+   "Native name (endonym)": "chiCheŵa, chinyanja",
+   "639-1": "ny",
+   "639-2": {
+      "T": "nya",
+      "B": "nya"
+   },
+   "639-3": "nya",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Sino-Tibetan",
+   "ISO language name": "Chinese",
+   "Native name (endonym)": "中文 (Zhōngwén), 汉语, 漢語",
+   "639-1": "zh",
+   "639-2": {
+      "T": "zho",
+      "B": "chi"
+   },
+   "639-3": "zho + 16",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Chuvash",
+   "Native name (endonym)": "чӑваш чӗлхи",
+   "639-1": "cv",
+   "639-2": {
+      "T": "chv",
+      "B": "chv"
+   },
+   "639-3": "chv",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Cornish",
+   "Native name (endonym)": "Kernewek",
+   "639-1": "kw",
+   "639-2": {
+      "T": "cor",
+      "B": "cor"
+   },
+   "639-3": "cor",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Corsican",
+   "Native name (endonym)": "corsu, lingua corsa",
+   "639-1": "co",
+   "639-2": {
+      "T": "cos",
+      "B": "cos"
+   },
+   "639-3": "cos",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Algonquian",
+   "ISO language name": "Cree",
+   "Native name (endonym)": "ᓀᐦᐃᔭᐍᐏᐣ",
+   "639-1": "cr",
+   "639-2": {
+      "T": "cre",
+      "B": "cre"
+   },
+   "639-3": "cre + 6",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Croatian",
+   "Native name (endonym)": "hrvatski jezik",
+   "639-1": "hr",
+   "639-2": {
+      "T": "hrv",
+      "B": "hrv"
+   },
+   "639-3": "hrv",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Czech",
+   "Native name (endonym)": "čeština, český jazyk",
+   "639-1": "cs",
+   "639-2": {
+      "T": "ces",
+      "B": "cze"
+   },
+   "639-3": "ces",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Danish",
+   "Native name (endonym)": "dansk",
+   "639-1": "da",
+   "639-2": {
+      "T": "dan",
+      "B": "dan"
+   },
+   "639-3": "dan",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Divehi, Dhivehi, Maldivian",
+   "Native name (endonym)": "ދިވެހި",
+   "639-1": "dv",
+   "639-2": {
+      "T": "div",
+      "B": "div"
+   },
+   "639-3": "div",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Dutch, Flemish",
+   "Native name (endonym)": "Nederlands, Vlaams",
+   "639-1": "nl",
+   "639-2": {
+      "T": "nld",
+      "B": "dut"
+   },
+   "639-3": "nld",
+   "Notes": "Flemish is not to be confused with the closely related West Flemish which is referred to as Vlaams (Dutch for \"Flemish\") in ISO 639-3 and has the ISO 639-3 code vls"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Sino-Tibetan",
+   "ISO language name": "Dzongkha",
+   "Native name (endonym)": "རྫོང་ཁ",
+   "639-1": "dz",
+   "639-2": {
+      "T": "dzo",
+      "B": "dzo"
+   },
+   "639-3": "dzo",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "English",
+   "Native name (endonym)": "English",
+   "639-1": "en",
+   "639-2": {
+      "T": "eng",
+      "B": "eng"
+   },
+   "639-3": "eng",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Constructed",
+   "ISO language name": "Esperanto",
+   "Native name (endonym)": "Esperanto",
+   "639-1": "eo",
+   "639-2": {
+      "T": "epo",
+      "B": "epo"
+   },
+   "639-3": "epo",
+   "Notes": "constructed, initiated from L.L. Zamenhof, 1887"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Uralic",
+   "ISO language name": "Estonian",
+   "Native name (endonym)": "eesti, eesti keel",
+   "639-1": "et",
+   "639-2": {
+      "T": "est",
+      "B": "est"
+   },
+   "639-3": "est + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Ewe",
+   "Native name (endonym)": "Eʋegbe",
+   "639-1": "ee",
+   "639-2": {
+      "T": "ewe",
+      "B": "ewe"
+   },
+   "639-3": "ewe",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Faroese",
+   "Native name (endonym)": "føroyskt",
+   "639-1": "fo",
+   "639-2": {
+      "T": "fao",
+      "B": "fao"
+   },
+   "639-3": "fao",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Fijian",
+   "Native name (endonym)": "vosa Vakaviti",
+   "639-1": "fj",
+   "639-2": {
+      "T": "fij",
+      "B": "fij"
+   },
+   "639-3": "fij",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Uralic",
+   "ISO language name": "Finnish",
+   "Native name (endonym)": "suomi, suomen kieli",
+   "639-1": "fi",
+   "639-2": {
+      "T": "fin",
+      "B": "fin"
+   },
+   "639-3": "fin",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "French",
+   "Native name (endonym)": "français, langue française",
+   "639-1": "fr",
+   "639-2": {
+      "T": "fra",
+      "B": "fre"
+   },
+   "639-3": "fra",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Fulah",
+   "Native name (endonym)": "Fulfulde, Pulaar, Pular",
+   "639-1": "ff",
+   "639-2": {
+      "T": "ful",
+      "B": "ful"
+   },
+   "639-3": "ful + 9",
+   "Notes": "macrolanguage, also known as Fula"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Galician",
+   "Native name (endonym)": "Galego",
+   "639-1": "gl",
+   "639-2": {
+      "T": "glg",
+      "B": "glg"
+   },
+   "639-3": "glg",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Kartvelian",
+   "ISO language name": "Georgian",
+   "Native name (endonym)": "ქართული",
+   "639-1": "ka",
+   "639-2": {
+      "T": "kat",
+      "B": "geo"
+   },
+   "639-3": "kat",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "German",
+   "Native name (endonym)": "Deutsch",
+   "639-1": "de",
+   "639-2": {
+      "T": "deu",
+      "B": "ger"
+   },
+   "639-3": "deu",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Greek, Modern (1453–)",
+   "Native name (endonym)": "ελληνικά",
+   "639-1": "el",
+   "639-2": {
+      "T": "ell",
+      "B": "gre"
+   },
+   "639-3": "ell",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Tupian",
+   "ISO language name": "Guarani",
+   "Native name (endonym)": "Avañe'ẽ",
+   "639-1": "gn",
+   "639-2": {
+      "T": "grn",
+      "B": "grn"
+   },
+   "639-3": "grn + 5",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Gujarati",
+   "Native name (endonym)": "ગુજરાતી",
+   "639-1": "gu",
+   "639-2": {
+      "T": "guj",
+      "B": "guj"
+   },
+   "639-3": "guj",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Creole",
+   "ISO language name": "Haitian, Haitian Creole",
+   "Native name (endonym)": "Kreyòl ayisyen",
+   "639-1": "ht",
+   "639-2": {
+      "T": "hat",
+      "B": "hat"
+   },
+   "639-3": "hat",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Hausa",
+   "Native name (endonym)": "(Hausa) هَوُسَ",
+   "639-1": "ha",
+   "639-2": {
+      "T": "hau",
+      "B": "hau"
+   },
+   "639-3": "hau",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Hebrew",
+   "Native name (endonym)": "עברית",
+   "639-1": "he",
+   "639-2": {
+      "T": "heb",
+      "B": "heb"
+   },
+   "639-3": "heb",
+   "Notes": "Modern Hebrew. Code changed in 1989 from original ISO 639:1988, iw.[1]"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Herero",
+   "Native name (endonym)": "Otjiherero",
+   "639-1": "hz",
+   "639-2": {
+      "T": "her",
+      "B": "her"
+   },
+   "639-3": "her",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Hindi",
+   "Native name (endonym)": "हिन्दी, हिंदी",
+   "639-1": "hi",
+   "639-2": {
+      "T": "hin",
+      "B": "hin"
+   },
+   "639-3": "hin",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Hiri Motu",
+   "Native name (endonym)": "Hiri Motu",
+   "639-1": "ho",
+   "639-2": {
+      "T": "hmo",
+      "B": "hmo"
+   },
+   "639-3": "hmo",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Uralic",
+   "ISO language name": "Hungarian",
+   "Native name (endonym)": "magyar",
+   "639-1": "hu",
+   "639-2": {
+      "T": "hun",
+      "B": "hun"
+   },
+   "639-3": "hun",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Constructed",
+   "ISO language name": "Interlingua (International Auxiliary Language Association)",
+   "Native name (endonym)": "Interlingua",
+   "639-1": "ia",
+   "639-2": {
+      "T": "ina",
+      "B": "ina"
+   },
+   "639-3": "ina",
+   "Notes": "constructed by International Auxiliary Language Association"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Indonesian",
+   "Native name (endonym)": "Bahasa Indonesia",
+   "639-1": "in",
+   "639-2": {
+      "T": "ind",
+      "B": "ind"
+   },
+   "639-3": "ind",
+   "Notes": "Covered by macrolanguage ms/msa. Changed in 1989 from original ISO 639:1988, in.[1]"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Constructed",
+   "ISO language name": "Interlingue, Occidental",
+   "Native name (endonym)": "(originally:) Occidental, (after WWII:) Interlingue",
+   "639-1": "ie",
+   "639-2": {
+      "T": "ile",
+      "B": "ile"
+   },
+   "639-3": "ile",
+   "Notes": "constructed by Edgar de Wahl, first published in 1922"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Irish",
+   "Native name (endonym)": "Gaeilge",
+   "639-1": "ga",
+   "639-2": {
+      "T": "gle",
+      "B": "gle"
+   },
+   "639-3": "gle",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Igbo",
+   "Native name (endonym)": "Asụsụ Igbo",
+   "639-1": "ig",
+   "639-2": {
+      "T": "ibo",
+      "B": "ibo"
+   },
+   "639-3": "ibo",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Eskimo–Aleut",
+   "ISO language name": "Inupiaq",
+   "Native name (endonym)": "Iñupiaq, Iñupiatun",
+   "639-1": "ik",
+   "639-2": {
+      "T": "ipk",
+      "B": "ipk"
+   },
+   "639-3": "ipk + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Constructed",
+   "ISO language name": "Ido",
+   "Native name (endonym)": "Ido",
+   "639-1": "io",
+   "639-2": {
+      "T": "ido",
+      "B": "ido"
+   },
+   "639-3": "ido",
+   "Notes": "constructed by De Beaufront, 1907, as variation of Esperanto"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Icelandic",
+   "Native name (endonym)": "Íslenska",
+   "639-1": "is",
+   "639-2": {
+      "T": "isl",
+      "B": "ice"
+   },
+   "639-3": "isl",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Italian",
+   "Native name (endonym)": "Italiano",
+   "639-1": "it",
+   "639-2": {
+      "T": "ita",
+      "B": "ita"
+   },
+   "639-3": "ita",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Eskimo–Aleut",
+   "ISO language name": "Inuktitut",
+   "Native name (endonym)": "ᐃᓄᒃᑎᑐᑦ",
+   "639-1": "iu",
+   "639-2": {
+      "T": "iku",
+      "B": "iku"
+   },
+   "639-3": "iku + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Japonic",
+   "ISO language name": "Japanese",
+   "Native name (endonym)": "日本語 (にほんご)",
+   "639-1": "ja",
+   "639-2": {
+      "T": "jpn",
+      "B": "jpn"
+   },
+   "639-3": "jpn",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Javanese",
+   "Native name (endonym)": "ꦧꦱꦗꦮ, Basa Jawa",
+   "639-1": "jv",
+   "639-2": {
+      "T": "jav",
+      "B": "jav"
+   },
+   "639-3": "jav",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Eskimo–Aleut",
+   "ISO language name": "Kalaallisut, Greenlandic",
+   "Native name (endonym)": "kalaallisut, kalaallit oqaasii",
+   "639-1": "kl",
+   "639-2": {
+      "T": "kal",
+      "B": "kal"
+   },
+   "639-3": "kal",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Dravidian",
+   "ISO language name": "Kannada",
+   "Native name (endonym)": "ಕನ್ನಡ",
+   "639-1": "kn",
+   "639-2": {
+      "T": "kan",
+      "B": "kan"
+   },
+   "639-3": "kan",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Nilo-Saharan",
+   "ISO language name": "Kanuri",
+   "Native name (endonym)": "Kanuri",
+   "639-1": "kr",
+   "639-2": {
+      "T": "kau",
+      "B": "kau"
+   },
+   "639-3": "kau + 3",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Kashmiri",
+   "Native name (endonym)": "कश्मीरी, كشميري‎",
+   "639-1": "ks",
+   "639-2": {
+      "T": "kas",
+      "B": "kas"
+   },
+   "639-3": "kas",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Kazakh",
+   "Native name (endonym)": "қазақ тілі",
+   "639-1": "kk",
+   "639-2": {
+      "T": "kaz",
+      "B": "kaz"
+   },
+   "639-3": "kaz",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austroasiatic",
+   "ISO language name": "Central Khmer",
+   "Native name (endonym)": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
+   "639-1": "km",
+   "639-2": {
+      "T": "khm",
+      "B": "khm"
+   },
+   "639-3": "khm",
+   "Notes": "also known as Khmer or Cambodian"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Kikuyu, Gikuyu",
+   "Native name (endonym)": "Gĩkũyũ",
+   "639-1": "ki",
+   "639-2": {
+      "T": "kik",
+      "B": "kik"
+   },
+   "639-3": "kik",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Kinyarwanda",
+   "Native name (endonym)": "Ikinyarwanda",
+   "639-1": "rw",
+   "639-2": {
+      "T": "kin",
+      "B": "kin"
+   },
+   "639-3": "kin",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Kirghiz, Kyrgyz",
+   "Native name (endonym)": "Кыргызча, Кыргыз тили",
+   "639-1": "ky",
+   "639-2": {
+      "T": "kir",
+      "B": "kir"
+   },
+   "639-3": "kir",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Uralic",
+   "ISO language name": "Komi",
+   "Native name (endonym)": "коми кыв",
+   "639-1": "kv",
+   "639-2": {
+      "T": "kom",
+      "B": "kom"
+   },
+   "639-3": "kom + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Kongo",
+   "Native name (endonym)": "Kikongo",
+   "639-1": "kg",
+   "639-2": {
+      "T": "kon",
+      "B": "kon"
+   },
+   "639-3": "kon + 3",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Koreanic",
+   "ISO language name": "Korean",
+   "Native name (endonym)": "한국어",
+   "639-1": "ko",
+   "639-2": {
+      "T": "kor",
+      "B": "kor"
+   },
+   "639-3": "kor",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Kurdish",
+   "Native name (endonym)": "Kurdî, کوردی‎",
+   "639-1": "ku",
+   "639-2": {
+      "T": "kur",
+      "B": "kur"
+   },
+   "639-3": "kur + 3",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Kuanyama, Kwanyama",
+   "Native name (endonym)": "Kuanyama",
+   "639-1": "kj",
+   "639-2": {
+      "T": "kua",
+      "B": "kua"
+   },
+   "639-3": "kua",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Latin",
+   "Native name (endonym)": "latine, lingua latina",
+   "639-1": "la",
+   "639-2": {
+      "T": "lat",
+      "B": "lat"
+   },
+   "639-3": "lat",
+   "Notes": "ancient"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Luxembourgish, Letzeburgesch",
+   "Native name (endonym)": "Lëtzebuergesch",
+   "639-1": "lb",
+   "639-2": {
+      "T": "ltz",
+      "B": "ltz"
+   },
+   "639-3": "ltz",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Ganda",
+   "Native name (endonym)": "Luganda",
+   "639-1": "lg",
+   "639-2": {
+      "T": "lug",
+      "B": "lug"
+   },
+   "639-3": "lug",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Limburgan, Limburger, Limburgish",
+   "Native name (endonym)": "Limburgs",
+   "639-1": "li",
+   "639-2": {
+      "T": "lim",
+      "B": "lim"
+   },
+   "639-3": "lim",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Lingala",
+   "Native name (endonym)": "Lingála",
+   "639-1": "ln",
+   "639-2": {
+      "T": "lin",
+      "B": "lin"
+   },
+   "639-3": "lin",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Tai–Kadai",
+   "ISO language name": "Lao",
+   "Native name (endonym)": "ພາສາລາວ",
+   "639-1": "lo",
+   "639-2": {
+      "T": "lao",
+      "B": "lao"
+   },
+   "639-3": "lao",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Lithuanian",
+   "Native name (endonym)": "lietuvių kalba",
+   "639-1": "lt",
+   "639-2": {
+      "T": "lit",
+      "B": "lit"
+   },
+   "639-3": "lit",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Luba-Katanga",
+   "Native name (endonym)": "Kiluba",
+   "639-1": "lu",
+   "639-2": {
+      "T": "lub",
+      "B": "lub"
+   },
+   "639-3": "lub",
+   "Notes": "also known as Luba-Shaba"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Latvian",
+   "Native name (endonym)": "latviešu valoda",
+   "639-1": "lv",
+   "639-2": {
+      "T": "lav",
+      "B": "lav"
+   },
+   "639-3": "lav + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Manx",
+   "Native name (endonym)": "Gaelg, Gailck",
+   "639-1": "gv",
+   "639-2": {
+      "T": "glv",
+      "B": "glv"
+   },
+   "639-3": "glv",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Macedonian",
+   "Native name (endonym)": "македонски јазик",
+   "639-1": "mk",
+   "639-2": {
+      "T": "mkd",
+      "B": "mac"
+   },
+   "639-3": "mkd",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Malagasy",
+   "Native name (endonym)": "fiteny malagasy",
+   "639-1": "mg",
+   "639-2": {
+      "T": "mlg",
+      "B": "mlg"
+   },
+   "639-3": "mlg + 11",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Malay",
+   "Native name (endonym)": "Bahasa Melayu, بهاس ملايو‎",
+   "639-1": "ms",
+   "639-2": {
+      "T": "msa",
+      "B": "may"
+   },
+   "639-3": "msa + 36",
+   "Notes": "macrolanguage, Standard Malay is zsm, Indonesian is id/ind"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Dravidian",
+   "ISO language name": "Malayalam",
+   "Native name (endonym)": "മലയാളം",
+   "639-1": "ml",
+   "639-2": {
+      "T": "mal",
+      "B": "mal"
+   },
+   "639-3": "mal",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Maltese",
+   "Native name (endonym)": "Malti",
+   "639-1": "mt",
+   "639-2": {
+      "T": "mlt",
+      "B": "mlt"
+   },
+   "639-3": "mlt",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Māori",
+   "Native name (endonym)": "te reo Māori",
+   "639-1": "mi",
+   "639-2": {
+      "T": "mri",
+      "B": "mao"
+   },
+   "639-3": "mri",
+   "Notes": "also known as Māori"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Marathi",
+   "Native name (endonym)": "मराठी",
+   "639-1": "mr",
+   "639-2": {
+      "T": "mar",
+      "B": "mar"
+   },
+   "639-3": "mar",
+   "Notes": "also known as Marāṭhī"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Marshallese",
+   "Native name (endonym)": "Kajin M̧ajeļ",
+   "639-1": "mh",
+   "639-2": {
+      "T": "mah",
+      "B": "mah"
+   },
+   "639-3": "mah",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Mongolic",
+   "ISO language name": "Mongolian",
+   "Native name (endonym)": "Монгол хэл",
+   "639-1": "mn",
+   "639-2": {
+      "T": "mon",
+      "B": "mon"
+   },
+   "639-3": "mon + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Nauru",
+   "Native name (endonym)": "Dorerin Naoero",
+   "639-1": "na",
+   "639-2": {
+      "T": "nau",
+      "B": "nau"
+   },
+   "639-3": "nau",
+   "Notes": "also known as Nauruan"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Dené–Yeniseian",
+   "ISO language name": "Navajo, Navaho",
+   "Native name (endonym)": "Diné bizaad",
+   "639-1": "nv",
+   "639-2": {
+      "T": "nav",
+      "B": "nav"
+   },
+   "639-3": "nav",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "North Ndebele",
+   "Native name (endonym)": "isiNdebele",
+   "639-1": "nd",
+   "639-2": {
+      "T": "nde",
+      "B": "nde"
+   },
+   "639-3": "nde",
+   "Notes": "also known as Northern Ndebele"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Nepali",
+   "Native name (endonym)": "नेपाली",
+   "639-1": "ne",
+   "639-2": {
+      "T": "nep",
+      "B": "nep"
+   },
+   "639-3": "nep + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Ndonga",
+   "Native name (endonym)": "Owambo",
+   "639-1": "ng",
+   "639-2": {
+      "T": "ndo",
+      "B": "ndo"
+   },
+   "639-3": "ndo",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Norwegian Bokmål",
+   "Native name (endonym)": "Norsk Bokmål",
+   "639-1": "nb",
+   "639-2": {
+      "T": "nob",
+      "B": "nob"
+   },
+   "639-3": "nob",
+   "Notes": "Covered by macrolanguage no/nor"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Norwegian Nynorsk",
+   "Native name (endonym)": "Norsk Nynorsk",
+   "639-1": "nn",
+   "639-2": {
+      "T": "nno",
+      "B": "nno"
+   },
+   "639-3": "nno",
+   "Notes": "Covered by macrolanguage no/nor"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Norwegian",
+   "Native name (endonym)": "Norsk",
+   "639-1": "no",
+   "639-2": {
+      "T": "nor",
+      "B": "nor"
+   },
+   "639-3": "nor + 2",
+   "Notes": "macrolanguage, Bokmål is nb/nob, Nynorsk is nn/nno"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Sino-Tibetan",
+   "ISO language name": "Sichuan Yi, Nuosu",
+   "Native name (endonym)": "ꆈꌠ꒿ Nuosuhxop",
+   "639-1": "ii",
+   "639-2": {
+      "T": "iii",
+      "B": "iii"
+   },
+   "639-3": "iii",
+   "Notes": "Standard form of Yi languages"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "South Ndebele",
+   "Native name (endonym)": "isiNdebele",
+   "639-1": "nr",
+   "639-2": {
+      "T": "nbl",
+      "B": "nbl"
+   },
+   "639-3": "nbl",
+   "Notes": "also known as Southern Ndebele"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Occitan",
+   "Native name (endonym)": "occitan, lenga d'òc",
+   "639-1": "oc",
+   "639-2": {
+      "T": "oci",
+      "B": "oci"
+   },
+   "639-3": "oci",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Algonquian",
+   "ISO language name": "Ojibwa",
+   "Native name (endonym)": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
+   "639-1": "oj",
+   "639-2": {
+      "T": "oji",
+      "B": "oji"
+   },
+   "639-3": "oji + 7",
+   "Notes": "macrolanguage, also known as Ojibwe"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Church Slavic, Old Slavonic, Church Slavonic, Old Bulgarian, Old Church Slavonic",
+   "Native name (endonym)": "ѩзыкъ словѣньскъ",
+   "639-1": "cu",
+   "639-2": {
+      "T": "chu",
+      "B": "chu"
+   },
+   "639-3": "chu",
+   "Notes": "ancient, in use by Orthodox Church"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Oromo",
+   "Native name (endonym)": "Afaan Oromoo",
+   "639-1": "om",
+   "639-2": {
+      "T": "orm",
+      "B": "orm"
+   },
+   "639-3": "orm + 4",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Oriya",
+   "Native name (endonym)": "ଓଡ଼ିଆ",
+   "639-1": "or",
+   "639-2": {
+      "T": "ori",
+      "B": "ori"
+   },
+   "639-3": "ori + 2",
+   "Notes": "macrolanguage, also known as Odia"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Ossetian, Ossetic",
+   "Native name (endonym)": "ирон æвзаг",
+   "639-1": "os",
+   "639-2": {
+      "T": "oss",
+      "B": "oss"
+   },
+   "639-3": "oss",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Punjabi, Panjabi",
+   "Native name (endonym)": "ਪੰਜਾਬੀ, پنجابی‎",
+   "639-1": "pa",
+   "639-2": {
+      "T": "pan",
+      "B": "pan"
+   },
+   "639-3": "pan",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Pali",
+   "Native name (endonym)": "पालि, पाळि",
+   "639-1": "pi",
+   "639-2": {
+      "T": "pli",
+      "B": "pli"
+   },
+   "639-3": "pli",
+   "Notes": "ancient, also known as Pāli"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Persian",
+   "Native name (endonym)": "فارسی",
+   "639-1": "fa",
+   "639-2": {
+      "T": "fas",
+      "B": "per"
+   },
+   "639-3": "fas + 2",
+   "Notes": "macrolanguage, also known as Farsi"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Polish",
+   "Native name (endonym)": "język polski, polszczyzna",
+   "639-1": "pl",
+   "639-2": {
+      "T": "pol",
+      "B": "pol"
+   },
+   "639-3": "pol",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Pashto, Pushto",
+   "Native name (endonym)": "پښتو",
+   "639-1": "ps",
+   "639-2": {
+      "T": "pus",
+      "B": "pus"
+   },
+   "639-3": "pus + 3",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Portuguese",
+   "Native name (endonym)": "Português",
+   "639-1": "pt",
+   "639-2": {
+      "T": "por",
+      "B": "por"
+   },
+   "639-3": "por",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Quechuan",
+   "ISO language name": "Quechua",
+   "Native name (endonym)": "Runa Simi, Kichwa",
+   "639-1": "qu",
+   "639-2": {
+      "T": "que",
+      "B": "que"
+   },
+   "639-3": "que + 43",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Romansh",
+   "Native name (endonym)": "Rumantsch Grischun",
+   "639-1": "rm",
+   "639-2": {
+      "T": "roh",
+      "B": "roh"
+   },
+   "639-3": "roh",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Rundi",
+   "Native name (endonym)": "Ikirundi",
+   "639-1": "rn",
+   "639-2": {
+      "T": "run",
+      "B": "run"
+   },
+   "639-3": "run",
+   "Notes": "also known as Kirundi"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Romanian, Moldavian, Moldovan",
+   "Native name (endonym)": "Română, Moldovenească",
+   "639-1": "ro",
+   "639-2": {
+      "T": "ron",
+      "B": "rum"
+   },
+   "639-3": "ron",
+   "Notes": "The identifiers mo and mol are deprecated, leaving ro and ron (639-2/T) and rum (639-2/B) the current language identifiers to be used for the variant of the Romanian language also known as Moldavian and Moldovan in English and moldave in French. The identifiers mo and mol will not be assigned to different items, and recordings using these identifiers will not be invalid."
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Russian",
+   "Native name (endonym)": "русский",
+   "639-1": "ru",
+   "639-2": {
+      "T": "rus",
+      "B": "rus"
+   },
+   "639-3": "rus",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Sanskrit",
+   "Native name (endonym)": "संस्कृतम्, 𑌸𑌂𑌸𑍍𑌕𑍃𑌤𑌮𑍍",
+   "639-1": "sa",
+   "639-2": {
+      "T": "san",
+      "B": "san"
+   },
+   "639-3": "san",
+   "Notes": "ancient"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Sardinian",
+   "Native name (endonym)": "sardu",
+   "639-1": "sc",
+   "639-2": {
+      "T": "srd",
+      "B": "srd"
+   },
+   "639-3": "srd + 4",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Sindhi",
+   "Native name (endonym)": "सिन्धी, سنڌي، سندھی‎",
+   "639-1": "sd",
+   "639-2": {
+      "T": "snd",
+      "B": "snd"
+   },
+   "639-3": "snd",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Uralic",
+   "ISO language name": "Northern Sami",
+   "Native name (endonym)": "Davvisámegiella",
+   "639-1": "se",
+   "639-2": {
+      "T": "sme",
+      "B": "sme"
+   },
+   "639-3": "sme",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Samoan",
+   "Native name (endonym)": "gagana fa'a Samoa",
+   "639-1": "sm",
+   "639-2": {
+      "T": "smo",
+      "B": "smo"
+   },
+   "639-3": "smo",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Creole",
+   "ISO language name": "Sango",
+   "Native name (endonym)": "yângâ tî sängö",
+   "639-1": "sg",
+   "639-2": {
+      "T": "sag",
+      "B": "sag"
+   },
+   "639-3": "sag",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Serbian",
+   "Native name (endonym)": "српски језик",
+   "639-1": "sr",
+   "639-2": {
+      "T": "srp",
+      "B": "srp"
+   },
+   "639-3": "srp",
+   "Notes": "The ISO 639-2/T code srp deprecated the ISO 639-2/B code scc[2]"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Gaelic, Scottish Gaelic",
+   "Native name (endonym)": "Gàidhlig",
+   "639-1": "gd",
+   "639-2": {
+      "T": "gla",
+      "B": "gla"
+   },
+   "639-3": "gla",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Shona",
+   "Native name (endonym)": "chiShona",
+   "639-1": "sn",
+   "639-2": {
+      "T": "sna",
+      "B": "sna"
+   },
+   "639-3": "sna",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Sinhala, Sinhalese",
+   "Native name (endonym)": "සිංහල",
+   "639-1": "si",
+   "639-2": {
+      "T": "sin",
+      "B": "sin"
+   },
+   "639-3": "sin",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Slovak",
+   "Native name (endonym)": "Slovenčina, Slovenský jazyk",
+   "639-1": "sk",
+   "639-2": {
+      "T": "slk",
+      "B": "slo"
+   },
+   "639-3": "slk",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Slovenian",
+   "Native name (endonym)": "Slovenski jezik, Slovenščina",
+   "639-1": "sl",
+   "639-2": {
+      "T": "slv",
+      "B": "slv"
+   },
+   "639-3": "slv",
+   "Notes": "also known as Slovene"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Somali",
+   "Native name (endonym)": "Soomaaliga, af Soomaali",
+   "639-1": "so",
+   "639-2": {
+      "T": "som",
+      "B": "som"
+   },
+   "639-3": "som",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Southern Sotho",
+   "Native name (endonym)": "Sesotho",
+   "639-1": "st",
+   "639-2": {
+      "T": "sot",
+      "B": "sot"
+   },
+   "639-3": "sot",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Spanish, Castilian",
+   "Native name (endonym)": "Español",
+   "639-1": "es",
+   "639-2": {
+      "T": "spa",
+      "B": "spa"
+   },
+   "639-3": "spa",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Sundanese",
+   "Native name (endonym)": "Basa Sunda",
+   "639-1": "su",
+   "639-2": {
+      "T": "sun",
+      "B": "sun"
+   },
+   "639-3": "sun",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Swahili",
+   "Native name (endonym)": "Kiswahili",
+   "639-1": "sw",
+   "639-2": {
+      "T": "swa",
+      "B": "swa"
+   },
+   "639-3": "swa + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Swati",
+   "Native name (endonym)": "SiSwati",
+   "639-1": "ss",
+   "639-2": {
+      "T": "ssw",
+      "B": "ssw"
+   },
+   "639-3": "ssw",
+   "Notes": "also known as Swazi"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Swedish",
+   "Native name (endonym)": "Svenska",
+   "639-1": "sv",
+   "639-2": {
+      "T": "swe",
+      "B": "swe"
+   },
+   "639-3": "swe",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Dravidian",
+   "ISO language name": "Tamil",
+   "Native name (endonym)": "தமிழ்",
+   "639-1": "ta",
+   "639-2": {
+      "T": "tam",
+      "B": "tam"
+   },
+   "639-3": "tam",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Dravidian",
+   "ISO language name": "Telugu",
+   "Native name (endonym)": "తెలుగు",
+   "639-1": "te",
+   "639-2": {
+      "T": "tel",
+      "B": "tel"
+   },
+   "639-3": "tel",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Tajik",
+   "Native name (endonym)": "тоҷикӣ, toçikī, تاجیکی‎",
+   "639-1": "tg",
+   "639-2": {
+      "T": "tgk",
+      "B": "tgk"
+   },
+   "639-3": "tgk",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Tai–Kadai",
+   "ISO language name": "Thai",
+   "Native name (endonym)": "ไทย",
+   "639-1": "th",
+   "639-2": {
+      "T": "tha",
+      "B": "tha"
+   },
+   "639-3": "tha",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Afro-Asiatic",
+   "ISO language name": "Tigrinya",
+   "Native name (endonym)": "ትግርኛ",
+   "639-1": "ti",
+   "639-2": {
+      "T": "tir",
+      "B": "tir"
+   },
+   "639-3": "tir",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Sino-Tibetan",
+   "ISO language name": "Tibetan",
+   "Native name (endonym)": "བོད་ཡིག",
+   "639-1": "bo",
+   "639-2": {
+      "T": "bod",
+      "B": "tib"
+   },
+   "639-3": "bod",
+   "Notes": "also known as Standard Tibetan"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Turkmen",
+   "Native name (endonym)": "Türkmen, Түркмен",
+   "639-1": "tk",
+   "639-2": {
+      "T": "tuk",
+      "B": "tuk"
+   },
+   "639-3": "tuk",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Tagalog",
+   "Native name (endonym)": "Wikang Tagalog",
+   "639-1": "tl",
+   "639-2": {
+      "T": "tgl",
+      "B": "tgl"
+   },
+   "639-3": "tgl",
+   "Notes": "Note: Filipino (Pilipino) has the code fil"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Tswana",
+   "Native name (endonym)": "Setswana",
+   "639-1": "tn",
+   "639-2": {
+      "T": "tsn",
+      "B": "tsn"
+   },
+   "639-3": "tsn",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Tonga (Tonga Islands)",
+   "Native name (endonym)": "Faka Tonga",
+   "639-1": "to",
+   "639-2": {
+      "T": "ton",
+      "B": "ton"
+   },
+   "639-3": "ton",
+   "Notes": "also known as Tongan"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Turkish",
+   "Native name (endonym)": "Türkçe",
+   "639-1": "tr",
+   "639-2": {
+      "T": "tur",
+      "B": "tur"
+   },
+   "639-3": "tur",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Tsonga",
+   "Native name (endonym)": "Xitsonga",
+   "639-1": "ts",
+   "639-2": {
+      "T": "tso",
+      "B": "tso"
+   },
+   "639-3": "tso",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Tatar",
+   "Native name (endonym)": "татар теле, tatar tele",
+   "639-1": "tt",
+   "639-2": {
+      "T": "tat",
+      "B": "tat"
+   },
+   "639-3": "tat",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Twi",
+   "Native name (endonym)": "Twi",
+   "639-1": "tw",
+   "639-2": {
+      "T": "twi",
+      "B": "twi"
+   },
+   "639-3": "twi",
+   "Notes": "Covered by macrolanguage ak/aka"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austronesian",
+   "ISO language name": "Tahitian",
+   "Native name (endonym)": "Reo Tahiti",
+   "639-1": "ty",
+   "639-2": {
+      "T": "tah",
+      "B": "tah"
+   },
+   "639-3": "tah",
+   "Notes": "One of the Reo Mā`ohi (languages of French Polynesia)[3]"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Uighur, Uyghur",
+   "Native name (endonym)": "ئۇيغۇرچە‎, Uyghurche",
+   "639-1": "ug",
+   "639-2": {
+      "T": "uig",
+      "B": "uig"
+   },
+   "639-3": "uig",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Ukrainian",
+   "Native name (endonym)": "Українська",
+   "639-1": "uk",
+   "639-2": {
+      "T": "ukr",
+      "B": "ukr"
+   },
+   "639-3": "ukr",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Urdu",
+   "Native name (endonym)": "اردو",
+   "639-1": "ur",
+   "639-2": {
+      "T": "urd",
+      "B": "urd"
+   },
+   "639-3": "urd",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Turkic",
+   "ISO language name": "Uzbek",
+   "Native name (endonym)": "Oʻzbek, Ўзбек, أۇزبېك‎",
+   "639-1": "uz",
+   "639-2": {
+      "T": "uzb",
+      "B": "uzb"
+   },
+   "639-3": "uzb + 2",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Venda",
+   "Native name (endonym)": "Tshivenḓa",
+   "639-1": "ve",
+   "639-2": {
+      "T": "ven",
+      "B": "ven"
+   },
+   "639-3": "ven",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Austroasiatic",
+   "ISO language name": "Vietnamese",
+   "Native name (endonym)": "Tiếng Việt",
+   "639-1": "vi",
+   "639-2": {
+      "T": "vie",
+      "B": "vie"
+   },
+   "639-3": "vie",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Constructed",
+   "ISO language name": "Volapük",
+   "Native name (endonym)": "Volapük",
+   "639-1": "vo",
+   "639-2": {
+      "T": "vol",
+      "B": "vol"
+   },
+   "639-3": "vol",
+   "Notes": "constructed"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Walloon",
+   "Native name (endonym)": "Walon",
+   "639-1": "wa",
+   "639-2": {
+      "T": "wln",
+      "B": "wln"
+   },
+   "639-3": "wln",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Welsh",
+   "Native name (endonym)": "Cymraeg",
+   "639-1": "cy",
+   "639-2": {
+      "T": "cym",
+      "B": "wel"
+   },
+   "639-3": "cym",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Wolof",
+   "Native name (endonym)": "Wollof",
+   "639-1": "wo",
+   "639-2": {
+      "T": "wol",
+      "B": "wol"
+   },
+   "639-3": "wol",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Western Frisian",
+   "Native name (endonym)": "Frysk",
+   "639-1": "fy",
+   "639-2": {
+      "T": "fry",
+      "B": "fry"
+   },
+   "639-3": "fry",
+   "Notes": "also known as Frisian"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Xhosa",
+   "Native name (endonym)": "isiXhosa",
+   "639-1": "xh",
+   "639-2": {
+      "T": "xho",
+      "B": "xho"
+   },
+   "639-3": "xho",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Indo-European",
+   "ISO language name": "Yiddish",
+   "Native name (endonym)": "ייִדיש",
+   "639-1": "yi",
+   "639-2": {
+      "T": "yid",
+      "B": "yid"
+   },
+   "639-3": "yid + 2",
+   "Notes": "macrolanguage. Changed in 1989 from original ISO 639:1988, ji.[1]"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Yoruba",
+   "Native name (endonym)": "Yorùbá",
+   "639-1": "yo",
+   "639-2": {
+      "T": "yor",
+      "B": "yor"
+   },
+   "639-3": "yor",
+   "Notes": ""
+},
+ {
+   "FIELD1": "",
+   "Language family": "Tai–Kadai",
+   "ISO language name": "Zhuang, Chuang",
+   "Native name (endonym)": "Saɯ cueŋƅ, Saw cuengh",
+   "639-1": "za",
+   "639-2": {
+      "T": "zha",
+      "B": "zha"
+   },
+   "639-3": "zha + 16",
+   "Notes": "macrolanguage"
+},
+ {
+   "FIELD1": "",
+   "Language family": "Niger–Congo",
+   "ISO language name": "Zulu",
+   "Native name (endonym)": "isiZulu",
+   "639-1": "zu",
+   "639-2": {
+      "T": "zul",
+      "B": "zul"
+   },
+   "639-3": "zul",
+   "Notes": ""
+}
+]

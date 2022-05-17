@@ -1,0 +1,47 @@
+# 2022 COMP90024 Group 33 
+
+# Team members:
+
+# Ke Yang (Student ID: 1219623) - city: Anhui
+
+# Yimeng Liu (Student ID: 1074206) - city: Guangdong
+
+# Jintong Liu (Student ID: 1074498) - city: Hebei
+
+# Keang Xu (Student ID: 1008807) - city: Hubei
+
+# Xinwei Qian (Student ID: 1068271) - city: Jiangsu
+
+# remove directory
+- name: Remove directory 
+  file: 
+    path: '{{ remote_working_directory }}' 
+    state: absent 
+
+- name: Create directory
+  file:
+    path: '{{ remote_working_directory }}'
+    state: directory
+
+# clone
+- name: Clone the code repository into home directory
+  shell: git clone https://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@github.com/KeYANG813/COMP90024Group33.git
+  args:
+    chdir: '{{ remote_working_directory }}'
+  environment: "{{ proxy_env }}"
+
+- name: Git pull lastest repo
+  shell: git pull
+  args:
+    chdir: '/home/ubuntu/COMP90024/COMP90024Group33'
+
+# Run Docker compose to activate flask web app
+- name: Run docker compose
+  become: yes
+  docker_compose:
+    project_src: "/home/ubuntu/COMP90024/COMP90024Group33/App/"
+    pull: false
+    build: yes
+    state: present
+    remove_orphans: no
+    recreate: always

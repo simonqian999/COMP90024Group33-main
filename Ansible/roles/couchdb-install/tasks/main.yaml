@@ -1,0 +1,41 @@
+# 2022 COMP90024 Group 33 
+
+# Team members:
+
+# Ke Yang (Student ID: 1219623) - city: Anhui
+
+# Yimeng Liu (Student ID: 1074206) - city: Guangdong
+
+# Jintong Liu (Student ID: 1074498) - city: Hebei
+
+# Keang Xu (Student ID: 1008807) - city: Hubei
+
+# Xinwei Qian (Student ID: 1068271) - city: Jiangsu
+
+# remove existing Couch DB Docker containers 
+- name: Stop CouchDB Docker container
+  become: yes
+  docker_container:
+    name: couchdb
+    state: absent
+
+# Create new docker container for CouchDB 
+- name: Start a CouchDB docker container
+  become: yes
+  docker_container:
+    name: couchdb
+    image: "{{ image }}"
+    state: started
+    recreate: true
+    ports:
+      - "5984:5984"
+      - "4369:4369"
+      - "9100-9200:9100-9200"
+    volumes:
+      - /data
+    pull: yes
+    env:
+      COUCHDB_USER: "{{ user }}"
+      COUCHDB_PASSWORD: "{{ pass }}"
+      COUCHDB_SECRET: "{{ cookie }}"
+      ERL_FLAGS: "-setcookie \"{{ cookie }}\" -name \"couchdb@{{ inventory_hostname }}\""
